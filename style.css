@@ -1,0 +1,50 @@
+.content {
+    margin:auto;
+    width: 1200px;
+}
+.header {
+    height: 100px;
+}
+.big_container {
+    margin: auto;
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 0 #aaa;
+}
+.big_character {
+    margin: auto;
+    text-align:center;
+    padding: 15px;
+    font-size: 50px;
+    border-bottom: 1px outset black;
+}
+.submit_place {
+    padding: 5px;
+}
+.submit_place img {
+    vertical-align:middle;
+}
+.submit_place input{
+    margin-left: 10px;
+}
+
+#input {
+    width: 100px;
+}
+#next {
+    margin-left: 58px;
+}
+#answer {
+    margin-left: 7px;
+}
+#validity {
+    position: absolute;
+    margin-top:2px;
+    margin-left: 17px;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+}
